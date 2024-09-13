@@ -445,7 +445,7 @@ iframe {
 	font-optical-sizing: auto;
 	font-weight: 700;
 	font-style: Bold;
-	color: #72BEF5;
+	color: #1ea3da;
 }
 .overlay-text p{
 	font-family: "Inter", sans-serif;
@@ -521,7 +521,7 @@ iframe {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #72BEF5;
+    color: #1ea3da;
 }
 
 .zeus-home-title p{
@@ -616,7 +616,7 @@ ul.zeus-hero-social li i{
 	font-size: 32px;	
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #72BEF5;
+    color: #1ea3da;
 }
 
 .zeus-dark-headings p,
@@ -690,7 +690,7 @@ a.zeus-btn{
 
 .zeus-featbox h3{
 	font-size: 18px;
-	color: #72BEF5;	
+	color: #1ea3da;	
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -722,7 +722,7 @@ a.zeus-btn{
 
 .zeus-featbox2 .zeus-featbox2-text h4{
     font-size: 16px;
-    color: #72BEF5;
+    color: #1ea3da;
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -804,7 +804,7 @@ input.zeus-contact-submit{
 	color: #fff;
     font-family: 'Cairo', sans-serif;
     text-transform: uppercase;
-	background-color: #72BEF5;
+	background-color: #1ea3da;
 	font-size: 16px;
 	line-height: 20px;
 	padding: 15px 30px;
@@ -890,7 +890,7 @@ p.contact_success_box{
 
 .zeus-teambox h4{
     font-size: 18px;
-    color: #72BEF5;
+    color: #1ea3da;
     text-transform: uppercase;
     margin-bottom: 7px;
     font-weight: 600;	
