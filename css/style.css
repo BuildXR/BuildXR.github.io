@@ -150,8 +150,11 @@ iframe {
 }
 
 .section-dark{
-	background-color: #1f1f1f;
-	padding:70px 0;
+	background-image: url("../images/Background.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	/* padding:70px 0; */
 }
 
 .width-100{
@@ -620,7 +623,7 @@ ul.zeus-hero-social li i{
 }
 
 .zeus-dark-headings p,
-.zeus-dark-headings-center p,
+.col-center p,
 .zeus-dark-headings-about p{
 	font-size: 16px;
 	line-height: 28px;
@@ -640,6 +643,10 @@ ul.zeus-hero-social li i{
 }
 
 .zeus-section-image .zeus-dark-headings{
+	background-image: url("../images/Background.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	height: 100%;
 	width: 100%;
 } 	
@@ -667,9 +674,10 @@ a.zeus-btn{
 /* ========================================================== */
 
 .zeus-section-image{
-	background-color: #1f1f1f;
+	background-image: url("../images/Background.png");
 	background-size: cover;
-	padding: 70px 0;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .zeus-section-image2{
@@ -1256,7 +1264,7 @@ ul#countdown li p.timeRefSeconds {
 
 @media (max-width: 991px) {
 	.zeus-home-title ul.zeus-hero-social{left: 10px;	}
-	.section-white {padding: 40px 40px;}
+	.section-white {padding: 20px 20px;}
 	.section-dark{padding:40px 0;}
 	.section-grey{padding: 40px 0;}
 	.zeus-teambox{width: 100%;}	
