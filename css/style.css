@@ -136,7 +136,7 @@ iframe {
 .section-white-xs{
 	background: #fff;
 	padding-top: 70px;
-	padding-bottom: 0;
+	padding-bottom: 70px;
 }
 
 .section-grey{
@@ -640,7 +640,8 @@ ul.zeus-hero-social li i{
 }
 
 .zeus-section-image .zeus-dark-headings{
-	padding: 20px 40px;
+	height: 100%;
+	width: 100%;
 } 	
 
 a.zeus-btn{	
@@ -1255,7 +1256,7 @@ ul#countdown li p.timeRefSeconds {
 
 @media (max-width: 991px) {
 	.zeus-home-title ul.zeus-hero-social{left: 10px;	}
-	.section-white {padding: 40px 0;}
+	.section-white {padding: 40px 40px;}
 	.section-dark{padding:40px 0;}
 	.section-grey{padding: 40px 0;}
 	.zeus-teambox{width: 100%;}	
