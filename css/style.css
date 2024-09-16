@@ -423,12 +423,28 @@ iframe {
 
 
 .navbar-default .navbar-toggle{
-    border-color: #c8a279;
+    border-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #c8a279;
+    background-color: #fff;
 }
+
+.navbar > .container > .navbar-header > #logo {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.opaque > .container > .navbar-header > a#logo {
+    opacity: 1;
+    transition: 0.5s;
+}
+.navbar-header {
+    display: flex;
+    align-items: center;
+	max-height:fit-content
+}
+
 
 /* ========================================================== */
 /* 			               03. HOME-ZEUS                      */
